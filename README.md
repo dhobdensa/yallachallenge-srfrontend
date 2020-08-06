@@ -4,26 +4,21 @@
 
 This assignment is designed to evaluate the following:
 
-- Problem Solving
-- Requirements Understanding
-- Common Sense
-- Quality of Work
-- Coding Style
-- Speed
-- URL structure
-- Source code management
-- Understanding of web technologies
+- Attention to Detail
+- Code Quality
+- User Experience
 
 ## Instructions
 
 - Fork this repository
-- Crate the task solutions on your fork
+- Create the solutions on your fork
 - Raise a PR with the naming convention `yourfirstname-yourlastname`
 
 ## Task 1
 
-Create a page where the user to input a github account name (for example, "facebook").
-The info will be retrieved from <https://api.github.com/users/facebook>, after which the user will be presented with:
+Create a page for the user to input a github account name (for example, "facebook").
+
+The info for that account will be retrieved from <https://api.github.com/users/account_name> (e.g. <https://api.github.com/users/facebook>), after which the user will be presented with:
 
 - The avatar image of the account
 - The location
