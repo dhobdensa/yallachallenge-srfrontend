@@ -1,4 +1,4 @@
-# yallachallenges - Senior Frontend
+# Yalla Challange - Senior Front End Developer
 
 ## Focus Points
 
@@ -14,9 +14,15 @@ This assignment is designed to evaluate the following:
 - Source code management
 - Understanding of web technologies
 
+## Instructions
+
+- Fork this repository
+- Crate the task solutions on your fork
+- Raise a PR with the naming convention `yourfirstname-yourlastname`
+
 ## Task 1
 
-Create a page on /task1 where the user to input a github account name (for example, "facebook").
+Create a page where the user to input a github account name (for example, "facebook").
 The info will be retrieved from <https://api.github.com/users/facebook>, after which the user will be presented with:
 
 - The avatar image of the account
