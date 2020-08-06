@@ -57,7 +57,7 @@ Create a page that has the following:
 ### Task 2 Notes
 
 - The links on the page do not need to actually work
-- The subscribe form does not actually need to submit anything to any database
+- The subscribe form does not actually need to submit anything to any backend
 - Frameworks are allowed
 - ES6+ is allowed
 
