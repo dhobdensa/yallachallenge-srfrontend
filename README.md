@@ -7,6 +7,7 @@ This assignment is designed to evaluate the following:
 - Attention to Detail
 - Code Quality
 - User Experience
+- Deep understanding of browsers and web technologies
 
 ## Instructions
 
