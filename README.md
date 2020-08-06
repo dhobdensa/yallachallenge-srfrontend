@@ -52,7 +52,7 @@ Create a page that has the following:
 
   Cultivars grown in North America and Europe are believed to all derive from Capsicum annuum, and have white, yellow, red or purple to bllack fruits. In 2016, world production of raw green chili peppers was 34.5 million tonnes, with China producing half of the world total"
 - A footer with 2 columns: column 1 has a subscribe form which takes name, email, and phone number, column 2 has social media links (fb, twitter, linkedin)
-- Periodically, show the user toast notification with some random hot deals
+- Periodically, show the user a toast notification with some random hot deal message
 
 ### Task 2 Notes
 
