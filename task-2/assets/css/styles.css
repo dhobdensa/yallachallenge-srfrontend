@@ -1,0 +1,70 @@
+:root {
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  height: min(350px, 50vh);
+  background-image: url('../img/chili.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: var(--bs-blue);
+  color: var(--bs-light);
+}
+
+.banner-text {
+  width: min(100%, 500px);
+}
+
+.banner-text > h1, h2 {
+  font-weight: 300;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.cta-button {
+  border: 1px dashed var(--bs-light);
+}
+
+.text-section {
+  width: min(45rem, 90%);
+  font-size: 1.5rem;
+}
+
+.footer {
+  position: relative;
+  top: 10rem;
+  background-color: var(--bs-purple);
+  color: var(--bs-light);
+}
+
+.form-text {
+  color: #fafafa;
+}
+
+.fa {
+  margin: 0.5rem;
+}
+
+.sticky {
+  position: fixed;
+}
+
+.navbar {
+  width: 100vw;
+}
+
+#alerts > * {
+  float: right;
+}
+
+
+@media screen and (max-width:600px){
+  .jumbotron {
+    background-size: 50%;
+    background-position: right bottom;
+  }
+}
